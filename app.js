@@ -1,6 +1,6 @@
 const URL ="https://animechan.xyz/api/random";
 const factPara= document.querySelector("#quote");
-const button= document.querySelector("#button");
+const button= document.querySelector(".button");
 const factAnime= document.querySelector("#anime");
 const factCharacter= document.querySelector("#character");
 
